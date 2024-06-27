@@ -12,6 +12,7 @@ A practice package that prints what sound an animal makes depending on the varia
 Useful links:
 \itemize{
   \item \url{https://github.com/JamieGeo/animalsounds}
+  \item \url{https://jamiegeo.github.io/animalsounds/}
   \item Report bugs at \url{https://github.com/JamieGeo/animalsounds/issues}
 }
 
