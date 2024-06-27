@@ -1,0 +1,12 @@
+pandoc: 3.1.11
+pkgdown: 2.0.9
+pkgdown_sha: ~
+articles:
+  animalsounds: animalsounds.html
+  my-article: my-article.html
+  name: name.html
+last_built: 2024-06-27T12:03Z
+urls:
+  reference: https://jamiegeo.github.io/animalsounds/reference
+  article: https://jamiegeo.github.io/animalsounds/articles
+
